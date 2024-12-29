@@ -1,2 +1,4 @@
-# test
-tester for messing with things like a student
+# d2mr-assessment
+
+Centralized directory for D2MR mini-project assessment materials.
+
