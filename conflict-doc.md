@@ -4,4 +4,4 @@ I am editing this file on GitHub after resolving merge conflicts in RStudio. Whe
 
 I am making yet another change to the upstream repo (on GitHub)
 
-Now I'm making another (GitHub, upstream) text addition at the end of the document. I have not removed any text. 
+Now I'm making another (GitHub, upstream) text addition at the end of the document. I have not removed any text. Now I'm adding a bit more text in the same place in another commit.
