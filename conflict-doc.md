@@ -1,1 +1,3 @@
 I am creating this file directly on GitHub. If I make a file with the same name in my local repo, via RStudio, before pulling this one, I will get a merge conflict.
+
+I am editing this file on GitHub after resolving merge conflicts in RStudio. When I fetch and pull from upstream, I should see this addition.
