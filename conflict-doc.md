@@ -9,3 +9,7 @@ I got another merge conflict after editing this file on GitHub, etching, and pul
 
 This time when I edited it in RStudio to resolve the conflict, I left in the text from upstream that I had deleted in the last merge resolution (line 4) as well as the local changes (line 2).
  
+I am making yet another change to the upstream repo (on GitHub)
+
+I still have a conflict, because I made text additions in both places in the same location in the document. Git thinks I want one or the other, but doesn't know which. I can leave both.
+ 
